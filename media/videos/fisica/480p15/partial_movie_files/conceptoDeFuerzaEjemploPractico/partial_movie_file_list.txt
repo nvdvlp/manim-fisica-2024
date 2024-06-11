@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/sniev/Documents/GitHub/manim-fisica-2024/media/videos/fisica/480p15/partial_movie_files/conceptoDeFuerzaEjemploPractico/1185818338_3339828776_223132457.mp4'
+file 'file:C:/Users/sniev/Documents/GitHub/manim-fisica-2024/media/videos/fisica/480p15/partial_movie_files/conceptoDeFuerzaEjemploPractico/624642324_3636024140_1631576607.mp4'
+file 'file:C:/Users/sniev/Documents/GitHub/manim-fisica-2024/media/videos/fisica/480p15/partial_movie_files/conceptoDeFuerzaEjemploPractico/624642324_31264104_2027235194.mp4'
+file 'file:C:/Users/sniev/Documents/GitHub/manim-fisica-2024/media/videos/fisica/480p15/partial_movie_files/conceptoDeFuerzaEjemploPractico/624642324_3636024140_3997707237.mp4'
