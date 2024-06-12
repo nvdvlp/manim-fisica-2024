@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/sniev/Documents/GitHub/manim-fisica-2024/media/videos/fisica/480p15/partial_movie_files/LeyesDeNewton/1185818338_1160619695_223132457.mp4'
+file 'file:C:/Users/sniev/Documents/GitHub/manim-fisica-2024/media/videos/fisica/480p15/partial_movie_files/LeyesDeNewton/624642324_3890345977_3600167785.mp4'
+file 'file:C:/Users/sniev/Documents/GitHub/manim-fisica-2024/media/videos/fisica/480p15/partial_movie_files/LeyesDeNewton/624642324_2436928716_3246760926.mp4'
+file 'file:C:/Users/sniev/Documents/GitHub/manim-fisica-2024/media/videos/fisica/480p15/partial_movie_files/LeyesDeNewton/624642324_3890345977_1176347525.mp4'
+file 'file:C:/Users/sniev/Documents/GitHub/manim-fisica-2024/media/videos/fisica/480p15/partial_movie_files/LeyesDeNewton/624642324_1194742913_3620475906.mp4'
+file 'file:C:/Users/sniev/Documents/GitHub/manim-fisica-2024/media/videos/fisica/480p15/partial_movie_files/LeyesDeNewton/624642324_2899570619_3644442060.mp4'
+file 'file:C:/Users/sniev/Documents/GitHub/manim-fisica-2024/media/videos/fisica/480p15/partial_movie_files/LeyesDeNewton/624642324_2818774222_3225202723.mp4'
